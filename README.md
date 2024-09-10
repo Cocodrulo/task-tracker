@@ -27,7 +27,7 @@ Here are some constraints to guide the implementation:
     Example
     The list of commands and their usage is given below:
 
-```CFG
+```BASH
 # Adding a new task
 task-cli add "Buy groceries"
 # Output: Task added successfully (ID: 1)
