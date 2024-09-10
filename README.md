@@ -4,6 +4,28 @@ Build a CLI app to track your tasks and manage your to-do list.
 
 Task tracker is a project used to track and manage your tasks. In this task, you will build a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on. This project will help you practice your programming skills, including working with the filesystem, handling user inputs, and building a simple CLI application.
 
+## Instalation
+
+This scipt is made in NodeJS so you must have this installed. Then run:
+
+```BASH
+npm install
+```
+
+And for running thi script you can use any of the following commands:
+
+```BASH
+npm run main
+```
+
+```BASH
+node --run main
+```
+
+```BASH
+node index.js
+```
+
 ### Requirements
 
 The application should run from the command line, accept user actions and inputs as arguments, and store the tasks in a JSON file. The user should be able to:
